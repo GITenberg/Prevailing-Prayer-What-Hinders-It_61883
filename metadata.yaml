@@ -1,0 +1,32 @@
+_repo: Prevailing-Prayer-What-Hinders-It_61883
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moody, Dwight Lyman
+    aliases:
+    - Moody, Dwight L.
+    - Moody, D. L. (Dwight Lyman)
+    birthdate: 1837
+    deathdate: 1899
+    gutenberg_agent_id: '8911'
+    url: http://www.gutenberg.org/2009/agents/8911
+    wikipedia: https://en.wikipedia.org/wiki/Dwight_L._Moody
+description: ''
+gutenberg_issued: '2020-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61883'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Prayer -- Christianity'
+- !lcsh 'Christian life'
+- GITenberg
+tableOfContents: The prayers of the Bible -- Adoration -- Confession -- Restitution
+  -- Thanksgiving -- Forgiveness -- Unity -- Faith -- Petition -- Submission -- Answered
+  prayers.
+title: 'Prevailing Prayer: What Hinders It?'
+url: http://www.gutenberg.org/ebooks/61883
